@@ -1,0 +1,6 @@
+{
+  "name": "Drive AI",
+  "description": "GPS Conversationnel Gemini Live avec copilote vocal et publicités audio à l'arrêt pour VTC & conducteurs en Côte d'Ivoire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
